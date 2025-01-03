@@ -1,2 +1,2 @@
-# iris-classificatio
+# iris-classification
 Proyecto basado en dataset Iris
